@@ -4,12 +4,15 @@ Problem 4: Multiples
 Statement
 ---
 Given X, Y and N, Find the sum S of all the multiples of X or Y less or equal to N.
+
 Note: Count the common multiples only once
+
 Note: We guarantee that S < 2^63
 
 Input
 ---
 The 1st line contains the integers X and Y.
+
 The 2nd line contains the integer N.
 
 Output
