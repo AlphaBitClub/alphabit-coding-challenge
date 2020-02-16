@@ -1,1 +1,1 @@
-# AlphaBit Coding Challege 1st edition
+# AlphaBit Coding Challenge 1st edition
