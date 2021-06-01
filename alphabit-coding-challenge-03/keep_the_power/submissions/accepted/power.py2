@@ -1,0 +1,9 @@
+import math
+x = float(raw_input())
+y = float(raw_input())
+def solution(x, y):
+    x = math.log(x)
+    y = math.log(y)
+    result = math.ceil(y/x)
+    return int(result)
+print(solution(x, y))

@@ -1,0 +1,5 @@
+import math
+n = int(raw_input())
+k = int(raw_input())
+val = math.sqrt(n/k)
+print("true" if int(val) == val else "false")
